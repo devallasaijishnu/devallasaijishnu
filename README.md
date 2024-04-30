@@ -3,7 +3,10 @@
 - 🌱 I’m currently pursuing my undergraduation 
 - 💞️ I’m looking for an internship and job
 - 📫 How to reach me ...devallasaijishnu@gmail.com
-- 😄 Pronouns: ...
+- my skills are:python,data structures,r language
+- education:completed my secondary education with decent score of 86.5%
+-           and class X with good score of 9.7/10.0 points
+-           currently my cgpa is 7.14 
 - ⚡ Fun fact: ...i am good at time managing,fast learning
 
 <!---
